@@ -4,13 +4,13 @@ Este é meu perfil pessoal online, desenvolvido com foco em boas práticas de HT
 
 ---
 
-## 🧑 Sobre mim
+## Sobre mim
 
 Sou estudante de **Sistemas de Informação** e atuo na área de **Infraestrutura de TI**, o que me proporcionou uma base sólida em suporte técnico, redes e sistemas operacionais. Paralelamente, estou me especializando no desenvolvimento **Full Stack**, com foco no **Back-End**, especialmente com **C# e .NET**.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - HTML5 semântico
 - CSS3 com:
@@ -22,7 +22,7 @@ Sou estudante de **Sistemas de Informação** e atuo na área de **Infraestrutur
 
 ---
 
-## 📂 Organização das Seções
+## Organização das Seções
 
 - **Sobre mim**
 - **Habilidades**
@@ -32,11 +32,11 @@ Sou estudante de **Sistemas de Informação** e atuo na área de **Infraestrutur
 
 ---
 
-## 💻 Como visualizar o projeto
+## Como visualizar o projeto
 
 Você pode acessar o perfil pessoal através do GitHub Pages ou clonar o repositório e abrir o arquivo `perfil.html` diretamente no navegador:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/vsoares99/perfil-pessoal.git
+cd perfil-pessoal
 start perfil.html
