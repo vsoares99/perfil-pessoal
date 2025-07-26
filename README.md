@@ -8,10 +8,6 @@ Este é meu perfil pessoal online, desenvolvido com foco em boas práticas de HT
 
 Sou estudante de **Sistemas de Informação** e atuo na área de **Infraestrutura de TI**, o que me proporcionou uma base sólida em suporte técnico, redes e sistemas operacionais. Paralelamente, estou me especializando no desenvolvimento **Full Stack**, com foco no **Back-End**, especialmente com **C# e .NET**.
 
-Tenho interesse em **arquitetura de sistemas**, **bancos de dados** e **desenvolvimento de APIs**, e venho aprimorando minhas habilidades por meio de cursos, projetos pessoais e participação em comunidades de tecnologia.
-
-Também sou um entusiasta de **Dungeons & Dragons**, onde desenvolvo minha criatividade, comunicação e pensamento estratégico.
-
 ---
 
 ## 🚀 Tecnologias Utilizadas
